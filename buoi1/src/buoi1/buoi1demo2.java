@@ -100,22 +100,22 @@ public class buoi1demo2 {
                 + "6.Thoát\n");
         System.out.println("Nhập sự lựa chọn : ");
         int so=Integer.parseInt(sc.nextLine());
-        switch(so){
-            case 1 : nhapThongTin();
-            break;
-            case 2 : xuatThongTin();
-            break;
-            case 3 : TB();
-            break;
-            case 4: max();
-            break;
-            case 5 : sapXep();
-            break;
-            case 6: System.exit(0);
-            break;
-            default : System.out.println("Nhập lỗi xin mời nhập lại");
-            break;
-        }
+//        switch(so){
+//            case 1 : nhapThongTin();
+//            break;
+//            case 2 : xuatThongTin();
+//            break;
+//            case 3 : TB();
+//            break;
+//            case 4: max();
+//            break;
+//            case 5 : sapXep();
+//            break;
+//            case 6: System.exit(0);
+//            break;
+//            default : System.out.println("Nhập lỗi xin mời nhập lại");
+//            break;
+//        }
     }
     
 }
