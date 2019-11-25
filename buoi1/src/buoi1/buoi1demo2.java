@@ -43,7 +43,7 @@ public class buoi1demo2 {
         int dem = 0;
         for(int i=0;i<tenHang.length;i++){
             tong +=chieuCao[i];
-            dem++;
+            dem++;//sửa lần 3 chỗ này
         }
         double trungBinh = tong/dem;
         System.out.printf("Trung bình các phần tử nhập vào là %.2f\n",trungBinh);
