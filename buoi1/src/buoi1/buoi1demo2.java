@@ -87,7 +87,7 @@ public class buoi1demo2 {
     }
     public static void main(String[] args) {
         while(true){
-            menu();
+            menu();//sdfsfsdfdsfsdfsdfsdf
         }
     }
     public static void menu(){
